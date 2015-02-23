@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.acmsl:java-commons:latest-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/acmsl/java-commons/latest-SNAPSHOT/java-commons-latest-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/acmsl/java-commons/latest-SNAPSHOT/java-commons-latest-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/acmsl/java-commons/latest-SNAPSHOT/java-commons-latest-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
